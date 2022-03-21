@@ -1,0 +1,25 @@
+{
+  "name": "hyperbee-backups-test",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Testing ways of backing up and restoring hyperbees",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RangerMauve/hyperbee-backups-test.git"
+  },
+  "author": "rangermauve <ranger@mauve.moe> (https://mauve.moe/)",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/hyperbee-backups-test/issues"
+  },
+  "homepage": "https://github.com/RangerMauve/hyperbee-backups-test#readme",
+  "dependencies": {
+    "hyper-sdk": "^3.0.9",
+    "hyperbee": "^1.7.0",
+    "tape": "^5.5.2"
+  }
+}
